@@ -11,6 +11,6 @@ public class FirstTest {
 }
     @Test
     void firsttest () {
-        Assertions.assertTrue(1<2);
+        Assertions.assertTrue(5<8);
     }
 }
